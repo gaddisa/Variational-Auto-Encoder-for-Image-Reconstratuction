@@ -62,7 +62,7 @@ The following scripts can be executed to train the VAE and visualize the results
 
 1. [Variational Autoencoder Training Code](my_variational_auto_encoder.py)
 2. [Plot and Merge](my_variational_auto_encoder.py)
-3. [Real-time Face Mask Detection](real_time_face_mask_detection.py)
+3. [data preprocessing](my_variational_auto_encoder.py)
 
 ## Contact Information
 
